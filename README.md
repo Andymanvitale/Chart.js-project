@@ -1,4 +1,4 @@
-# IS601-FinalWebApplication-TeamProj
+# Creation of data visualization for database using Chart.js
 
 <h2>Step 1:</h2> Move to the branch for feature 1.
 <h2>Step 2:</h2> Install the files and open them in Pycharm
